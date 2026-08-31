@@ -1,5 +1,7 @@
 # Description
 
-This is the discussion page for [https://ohmyaistaffs.io/](https://ohmyaistaffs.io/).
+This repository is the official discussion page for [https://ohmyaistaffs.io/](https://ohmyaistaffs.io/), an AI-focused product platform.
 
-We welcome feedback from both users and developers, including suggestions, bug reports, questions, and feature ideas.
+It explains what the platform is, how to get started, and where users and developers can send feedback.
+
+Feedback topics include suggestions, bug reports, support questions, and feature ideas.
